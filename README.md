@@ -12,10 +12,16 @@ A curated list of papers on Multi-Modal Large Language Models (MM-LLM), Unified 
 
 -   **USM**: Scaling Automatic Speech Recognition Beyond 100 Languages.
     [[arXiv]](https://arxiv.org/pdf/2303.01037)
--   **MusicFM**: A Foundation Model for Music Informatics.
+-   **MusicFM(BEST-RQ)**: A Foundation Model for Music Informatics.
     [[arXiv]](https://arxiv.org/abs/2311.03318)
 -   **Cosyvoice3**: Towards In-the-wild Speech Generation via Scaling-up and Post-training.
     [[arXiv]](https://arxiv.org/abs/2505.17589)
+-   **NEST-RQ**: Next Token Prediction for Speech Self-Supervised Pre-Training
+    [[arXiv]](https://arxiv.org/abs/2409.08680)
+-   **MiniMax-Speech**: Intrinsic Zero-Shot Text-to-Speech with a Learnable Speaker Encoder
+    [[arXiv]](https://arxiv.org/pdf/2505.07916)
+-   **DitAR**: DiTAR: Diffusion Transformer Autoregressive Modeling for Speech Generation
+    [[arXiv]](https://arxiv.org/pdf/2502.03930)
 
 ### Visual
 
@@ -31,6 +37,11 @@ A curated list of papers on Multi-Modal Large Language Models (MM-LLM), Unified 
     [[arXiv]](https://arxiv.org/abs/2506.10395)
 -   **Nexus-Gen**: A Unified Model for Image Understanding, Generation, and Editing.
     [[arXiv]](https://arxiv.org/abs/2504.21356)
+-   **WAN**:  OPEN AND ADVANCED LARGE-SCALE VIDEO GENERATIVE MODELS
+    [[arXiv]](https://arxiv.org/pdf/2503.20314)
+-   **MAGI-1**: Autoregressive Video Generation at Scale
+    [[arXiv]](https://arxiv.org/pdf/2505.13211)
+
 
 ### DiT (Diffusion Models)
 
@@ -42,3 +53,5 @@ A curated list of papers on Multi-Modal Large Language Models (MM-LLM), Unified 
     [[arXiv]](https://arxiv.org/abs/2504.10483)
 -   **Diffuse and Disperse**: A method for improving diversity in generated images.
     [[arXiv]](https://arxiv.org/abs/2506.09027)
+-   **Mean Flow**: Mean Flows for One-step Generative Modeling
+    [[arXiv]](https://arxiv.org/pdf/2505.13447v1)
