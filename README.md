@@ -20,7 +20,7 @@ A curated list of papers on Multi-Modal Large Language Models (MM-LLM), Unified 
     [[arXiv]](https://arxiv.org/abs/2409.08680)
 -   **MiniMax-Speech**: Intrinsic Zero-Shot Text-to-Speech with a Learnable Speaker Encoder
     [[arXiv]](https://arxiv.org/pdf/2505.07916)
--   **DitAR**: DiTAR: Diffusion Transformer Autoregressive Modeling for Speech Generation
+-   **DiTAR**: Diffusion Transformer Autoregressive Modeling for Speech Generation
     [[arXiv]](https://arxiv.org/pdf/2502.03930)
 
 ### Visual
@@ -43,7 +43,7 @@ A curated list of papers on Multi-Modal Large Language Models (MM-LLM), Unified 
     [[arXiv]](https://arxiv.org/pdf/2505.13211)
 
 
-### DiT (Diffusion Models)
+### DiT
 
 -   **Golden Noise**: Golden Noise for Diffusion Models: A Learning Framework.
     [[arXiv]](https://arxiv.org/pdf/2411.09502)
