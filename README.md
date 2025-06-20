@@ -4,6 +4,8 @@ A curated list of papers on Multi-Modal Large Language Models (MM-LLM), Unified 
 
 *Feel free to recommend new papers by opening an issue!*
 
+*A Library, Not a Feed: I believe we should aim to build a library, not a real-time feed. By focusing on seminal works that offer core insights, we can create a trusted, focused collection where every entry is a "must-read" for understanding true advancements. This would serve both newcomers and experts looking for what truly matters.*
+
 ---
 
 ### Audio
