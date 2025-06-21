@@ -25,7 +25,7 @@ A curated list of papers on Multi-Modal Large Language Models (MM-LLM), Unified 
 
 ### Visual
 
--   **`show-o2`**: Improved Native Unified Multimodal Models.
+-   **show-o2**: Improved Native Unified Multimodal Models.
     [[arXiv]](https://arxiv.org/abs/2506.15564)
 -   **MINT**: Multi-modal Chain of Thought in Unified Generative Models for Enhanced Image Generation.
     [[arXiv]](https://arxiv.org/pdf/2503.01298)
@@ -33,8 +33,6 @@ A curated list of papers on Multi-Modal Large Language Models (MM-LLM), Unified 
     [[arXiv]](https://arxiv.org/abs/2505.14683)
 -   **UniWorld-V1**: High-Resolution Semantic Encoders for Unified Visual Understanding and Generation. **(Recommended)**
     [[arXiv]](https://arxiv.org/pdf/2506.03147)
--   **PISCES**: An Auto-regressive Foundation Model for Image Understanding and Generation.
-    [[arXiv]](https://arxiv.org/abs/2506.10395)
 -   **Nexus-Gen**: A Unified Model for Image Understanding, Generation, and Editing.
     [[arXiv]](https://arxiv.org/abs/2504.21356)
 -   **WAN**:  OPEN AND ADVANCED LARGE-SCALE VIDEO GENERATIVE MODELS
