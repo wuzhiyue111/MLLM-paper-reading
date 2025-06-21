@@ -22,6 +22,7 @@ A curated list of papers on Multi-Modal Large Language Models (MM-LLM), Unified 
     [[arXiv]](https://arxiv.org/pdf/2505.07916)
 -   **DiTAR**: Diffusion Transformer Autoregressive Modeling for Speech Generation
     [[arXiv]](https://arxiv.org/pdf/2502.03930)
+-   
 
 ### Visual
 
@@ -29,7 +30,7 @@ A curated list of papers on Multi-Modal Large Language Models (MM-LLM), Unified 
     [[arXiv]](https://arxiv.org/abs/2506.15564)
 -   **MINT**: Multi-modal Chain of Thought in Unified Generative Models for Enhanced Image Generation.
     [[arXiv]](https://arxiv.org/pdf/2503.01298)
--   **BAGEL**: Emerging Properties in Unified Multimodal Pretraining.
+-   **BAGEL**: Emerging Properties in Unified Multimodal Pretraining. **(Recommended)**
     [[arXiv]](https://arxiv.org/abs/2505.14683)
 -   **UniWorld-V1**: High-Resolution Semantic Encoders for Unified Visual Understanding and Generation. **(Recommended)**
     [[arXiv]](https://arxiv.org/pdf/2506.03147)
@@ -39,6 +40,13 @@ A curated list of papers on Multi-Modal Large Language Models (MM-LLM), Unified 
     [[arXiv]](https://arxiv.org/pdf/2503.20314)
 -   **MAGI-1**: Autoregressive Video Generation at Scale
     [[arXiv]](https://arxiv.org/pdf/2505.13211)
+-   **Highly Compressed Tokenizer Can Generate Without Training**
+    [[arXiv]](https://arxiv.org/abs/2506.08257)
+-   **ASVR**: Autoregressive Semantic Visual Reconstruction Helps VLMs Understand Better
+    [[arXiv]](https://arxiv.org/abs/2506.09040)
+-   **BLIP3-o**: A Family of Fully Open Unified Multimodal Models-Architecture, Training and Dataset
+    [[arXiv]](https://arxiv.org/abs/2505.09568)
+-   
 
 
 ### DiT
