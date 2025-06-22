@@ -18,7 +18,7 @@ A curated list of papers on Multi-Modal Large Language Models (MM-LLM), Unified 
     [[arXiv]](https://arxiv.org/abs/2505.17589)
 -   **NEST-RQ**: Next Token Prediction for Speech Self-Supervised Pre-Training
     [[arXiv]](https://arxiv.org/abs/2409.08680)
--   **MiniMax-Speech**: Intrinsic Zero-Shot Text-to-Speech with a Learnable Speaker Encoder
+-   **MiniMax-Speech (Flow-VAE)**: Intrinsic Zero-Shot Text-to-Speech with a Learnable Speaker Encoder
     [[arXiv]](https://arxiv.org/pdf/2505.07916)
 -   **DiTAR**: Diffusion Transformer Autoregressive Modeling for Speech Generation
     [[arXiv]](https://arxiv.org/pdf/2502.03930)
