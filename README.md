@@ -46,8 +46,9 @@ A curated list of papers on Multi-Modal Large Language Models (MM-LLM), Unified 
     [[arXiv]](https://arxiv.org/abs/2506.09040)
 -   **BLIP3-o**: A Family of Fully Open Unified Multimodal Models-Architecture, Training and Dataset
     [[arXiv]](https://arxiv.org/abs/2505.09568)
-    **Ovis-U1**: Ovis-U1 Technical Report
--   [[arXiv]]https://www.arxiv.org/pdf/2506.23044
+-   **Ovis-U1**: Ovis-U1 Technical Report
+    [[arXiv]]https://www.arxiv.org/pdf/2506.23044
+-   
 
 
 ### DiT
