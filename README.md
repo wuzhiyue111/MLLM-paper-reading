@@ -22,6 +22,8 @@ A curated list of papers on Multi-Modal Large Language Models (MM-LLM), Unified 
     [[arXiv]](https://arxiv.org/pdf/2505.07916)
 -   **DiTAR**: Diffusion Transformer Autoregressive Modeling for Speech Generation
     [[arXiv]](https://arxiv.org/pdf/2502.03930)
+-   **STITCH**: Simultaneous Thinking and Talking with Chunked Reasoning for Spoken Language Models
+    [[arXiv]](https://arxiv.org/abs/2507.15375)
 -   
 
 ### Visual
