@@ -24,7 +24,8 @@ A curated list of papers on Multi-Modal Large Language Models (MM-LLM), Unified 
     [[arXiv]](https://arxiv.org/pdf/2502.03930)
 -   **STITCH**: Simultaneous Thinking and Talking with Chunked Reasoning for Spoken Language Models
     [[arXiv]](https://arxiv.org/abs/2507.15375)
--   
+-   **MOSS-TTSD**: Text to Spoken Dialogue Generation
+    [[XY-Tokenizer]](https://www.open-moss.com/en/moss-ttsd/#:~:text=Speech%20Discretization%3A%20XY%2DTokenizer)
 
 ### Visual
 
@@ -50,11 +51,13 @@ A curated list of papers on Multi-Modal Large Language Models (MM-LLM), Unified 
     [[arXiv]](https://arxiv.org/abs/2505.09568)
 -   **Ovis-U1**: Ovis-U1 Technical Report
     [[arXiv]](https://www.arxiv.org/pdf/2506.23044)
--   
+-   **Qwen-Image**: Qwen-Image Technical Report
+    [[arXiv]](https://arxiv.org/abs/2508.02324)
+-   **NextStep-1**: Toward Autoregressive Image Generation with Continuous Tokens at Scale
+    [[arXiv]](https://arxiv.org/pdf/2508.10711)
 
 
 ### DiT
-
 -   **Golden Noise**: Golden Noise for Diffusion Models: A Learning Framework.
     [[arXiv]](https://arxiv.org/pdf/2411.09502)
 -   **REPA**: Representation Alignment for Generation: Training Diffusion Transformers Is Easier Than You Think
