@@ -55,6 +55,8 @@ A curated list of papers on Multi-Modal Large Language Models (MM-LLM), Unified 
     [[arXiv]](https://arxiv.org/abs/2508.02324)
 -   **NextStep-1**: Toward Autoregressive Image Generation with Continuous Tokens at Scale
     [[arXiv]](https://arxiv.org/pdf/2508.10711)
+-   **Heptapod**: Language Modeling on Visual Signals (Pretrained Tokenizer-free)
+    [[arXiv]](https://arxiv.org/pdf/2508.10711)
 
 
 ### DiT
